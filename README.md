@@ -2,7 +2,7 @@
 
 Course on JavaScript first steps.
 
-Update: 18th of June completed course 4 of 5.
+Update: 18th of June Course completed.
 
 Courses:
 
